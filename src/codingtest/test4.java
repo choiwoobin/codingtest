@@ -3,7 +3,7 @@ package codingtest;
 
 
 class test4 {
-  public String solution(String s) {
+  public String test4(String s) {
        String answer;
       char[] tmp=s.toCharArray();
       if(s.length()%2==1)

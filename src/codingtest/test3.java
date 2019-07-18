@@ -2,7 +2,7 @@ package codingtest;
 
 import java.util.*;
 class test3 {
-  public String solution(int a, int b) {
+  public String test3(int a, int b) {
        String answer = "";
       Calendar cal = Calendar.getInstance();
        cal.set(Calendar.YEAR,Integer.parseInt("2016"));
